@@ -4,6 +4,9 @@ Desktop application for registering in gym classes that use the myWellness manag
 The project is compiled with pyInstaller in order to be portable for windows linux and macos.
 
 # Changelog
+### 1.0.4 - 2022-12-5
+#### Fixed
+- Versions and Update
 
 ### 1.0.3 - 2022-12-2
 #### Changed
