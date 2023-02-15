@@ -4,6 +4,15 @@ Desktop application for registering in gym classes that use the myWellness manag
 The project is compiled with pyInstaller in order to be portable for windows linux and macos.
 
 # Changelog
+### 1.1.0 - 2023-02-15
+#### Added
+- Refactor with asyncio and complete thread overhaul
+- Auto booking when in waiting-list
+- Stop auto booking when out of waiting-list
+- Gym selector with same call as the app
+- Multi-user
+- Privacy protected config
+
 ### 1.0.5 - 2022-12-5
 #### Fixed
 - Minor fix and killswitch updated
