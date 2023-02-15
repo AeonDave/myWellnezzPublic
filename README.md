@@ -1,6 +1,6 @@
 # myWellnezz
 
-Desktop application for registering in gym classes that use the myWellness management system
+Desktop application for registering in gym classes that use the myWellness management system.
 The project is compiled with pyInstaller in order to be portable for windows linux and macos.
 
 # Changelog
