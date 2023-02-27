@@ -8,7 +8,7 @@ The project is compiled with pyInstaller in order to be portable for windows lin
 
 # Changelog
 ### 1.1.1 - 2023-02-27
-### Fixed
+#### Fixed
 - Fixed bug where registering for a class would also unregister the same class.
 #### Added
 - Added key "R" for refreshing the page.
