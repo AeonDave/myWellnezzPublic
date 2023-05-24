@@ -7,6 +7,13 @@ The project is compiled with pyInstaller in order to be portable for windows lin
 
 
 # Changelog
+### 1.1.2 - 2023-05-24
+#### Fixed
+- Fixed bug where user with old token could crash app.
+- Fixed edit from BE where some header are important now.
+#### Added
+- Added user update token,
+
 ### 1.1.1 - 2023-02-27
 #### Fixed
 - Fixed bug where registering for a class would also unregister the same class.
